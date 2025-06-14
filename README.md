@@ -35,17 +35,17 @@ El objetivo es demostrar dominio de herramientas fundamentales de análisis de d
 
 📦 Proyecto1-analisis-datos-negocio
 
-- ── crear_base.py         # Creación de la base de datos y tablas
-- ── insertar_datos.py     # Inserción de datos simulados
-- ── consultas_sql.py      # Consultas básicas de ejemplo
-- ── analisis_avanzado.py  # Análisis completo de ventas
-- ── graficos.py           # Visualización automatizada de resultados
-- ── empresa.db            # Base de datos SQLite generada
-- ── reporte_analisis.xlsx # Reporte final en Excel
-- ── grafico_region.png    # Gráfico de ventas por región
-- ── grafico_mes.png       # Gráfico de ventas por mes
-- ── grafico_productos.png # Gráfico de top productos
-- ── README.md             # Descripción del proyecto
+- ── crear_base.py ------------> # Creación de la base de datos y tablas
+- ── insertar_datos.py --------> # Inserción de datos simulados
+- ── consultas_sql.py ---------> # Consultas básicas de ejemplo
+- ── analisis_avanzado.py -----> # Análisis completo de ventas
+- ── graficos.py --------------> # Visualización automatizada de resultados
+- ── empresa.db ---------------> # Base de datos SQLite generada
+- ── reporte_analisis.xlsx ----> # Reporte final en Excel
+- ── grafico_region.png -------> # Gráfico de ventas por región
+- ── grafico_mes.png ----------> # Gráfico de ventas por mes
+- ── grafico_productos.png ----> # Gráfico de top productos
+- ── README.md ----------------> # Descripción del proyecto
 
 ---
 
